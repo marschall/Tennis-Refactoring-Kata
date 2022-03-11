@@ -1,14 +1,11 @@
-.DS_Store
-*.swp
+# Maven
+target/
 
 # Eclipse files
+.classpath
 .project
 .settings/
 
 # IntelliJ files
 *.iml
 .idea/
-
-# VS
-.vs/
-.vscode/
