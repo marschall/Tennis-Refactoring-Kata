@@ -100,4 +100,10 @@ public class TennisTest {
         checkAllScores(game);
     }
 
+
+    @Test
+    public void checkAllScoresTennisGame5() {
+        TennisGame game = new TennisGame5("player1", "player2");
+        checkAllScores(game);
+    }
 }
